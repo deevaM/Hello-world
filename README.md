@@ -1,2 +1,3 @@
-# Hello-world
-Valaxy Tech devops Demo 
+# maven-project
+
+Simple Maven Project
